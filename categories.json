@@ -1,0 +1,88 @@
+{
+      "Food":
+      [
+        "Groceries",
+        "Dining Out",
+        "Snacks",
+        "Coffee & Drinks",
+        "Meal Prep"
+        ],
+      "Transport":
+      [
+        "Public Transport",
+        "Fuel",
+        "Taxi & Ride Share",
+        "Parking",
+        "Maintenance"
+      ],
+      "Housing":
+      [
+        "Rent",
+        "Utilities",
+        "Internet",
+        "Repairs",
+        "Cleaning"
+      ],
+    "Health":
+      [
+        "Pharmacy",
+        "Doctor Visits",
+        "Gym",
+        "Supplements",
+        "Insurance"
+      ],
+    
+      "Shopping":
+      [
+        "Clothes",
+        "Electronics",
+        "Home Items",
+        "Gifts",
+        "Online Orders"
+      ],
+    
+      "Entertainment":
+      [
+        "Movies",
+        "Games",
+        "Subscriptions",
+        "Events",
+        "Hobbies"
+      ],
+    
+      "Work & Study":
+      [
+        "Books",
+        "Courses",
+        "Stationery",
+        "Software",
+        "Work Travel"
+      ],
+    
+      "Personal Care":
+      [
+        "Haircuts",
+        "Skincare",
+        "Toiletries",
+        "Laundry",
+        "Spa"
+      ],
+    
+      "Family & Social":
+      [
+        "Dining with Friends",
+        "Family Support",
+        "Celebrations",
+        "Donations",
+        "Childcare"
+      ],
+    
+      "Miscellaneous":
+      [
+        "Unexpected Expenses",
+        "Repairs",
+        "Fees",
+        "Fines",
+        "Other"
+      ]
+}
